@@ -1,0 +1,12 @@
+pandas
+numpy
+langchain
+langchain-openai
+langchain-community
+openai
+faiss-cpu
+tiktoken
+gradio
+python-dotenv
+scikit-learn
+matplotlib
